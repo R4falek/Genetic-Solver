@@ -1,0 +1,50 @@
+0, 1, main { c = 883 - 17 read ( c ) c = c * c write ( a ) read ( c ) c = 288 - 478 write ( d ) read ( c ) loop ( d equals 690 & d equals c ) { } } 
+1, 1, main { condition ( d equals 51 ) { } read ( c ) c = c * c write ( a ) read ( c ) c = 288 - 478 write ( d ) read ( c ) loop ( d equals 690 & d equals c ) { } } 
+2, 1, main { write ( a ) loop ( a equals a ) { condition ( d equals 588 & b equals 823 ) { loop ( c equals b & c equals b ) { } } condition ( b equals 957 ) { write ( c ) } } } 
+3, 1, main { write ( d ) read ( d ) condition ( c equals 270 ) { write ( d ) write ( a ) b = d * d } write ( b ) write ( b ) } 
+4, 1, main { c = a condition ( a equals b | a equals 874 ) { read ( a ) } write ( d ) write ( b ) loop ( c equals a | a equals c ) { condition ( d equals b ) { } } } 
+5, 1, main { c = c read ( c ) read ( c ) condition ( b equals d ) { c = d + 732 write ( b ) } } 
+6, 1, main { loop ( c equals 270 ) { c = 461 write ( d ) read ( b ) } write ( d ) } 
+7, 1, main { condition ( d equals 28 ) { a = a } loop ( d equals d ) { write ( d ) } write ( a ) d = d  condition ( a equals 624 | c equals c ) {  } } 
+8, 1, main { condition ( c equals b & c equals b ) { } read ( c ) write ( b ) write ( b ) read ( c ) c = 288 - 478 write ( b ) read ( c ) loop ( b equals 970 ) { } } 
+9, 1, main { write ( a ) loop ( c equals c ) { loop ( b equals d ) { write ( d ) } condition ( d equals 588 & d equals 823 ) { condition ( b equals d ) { write ( d ) condition ( b equals 622 ) {  } } } } condition ( c equals 270 ) { write ( c ) write ( a ) b = d * d } write ( b ) condition ( d equals 588 & d equals 823 ) { condition ( b equals d ) { write ( d ) b = 748 * 610 } } } 
+10, 1, main { condition ( a equals 996 ) { } read ( c ) write ( b ) write ( b ) read ( c ) c = 288 - 478 write ( d ) read ( b ) loop ( b equals 970 ) { } } 
+11, 1, main { write ( d ) read ( c ) read ( c )  } 
+12, 1, main { condition ( b equals 828 | b equals d ) { } read ( c ) write ( b ) write ( b ) read ( c ) c = 876 - 478 write ( b ) read ( c ) loop ( b equals 970 ) { } } 
+13, 1, main { loop ( b equals 828 | b equals d ) { write ( b )  } write ( d ) } 
+14, 1, main { write ( c ) c = 461 b = 299 loop ( c equals 49 & d equals 333 ) { write ( d ) condition ( c equals 270 ) { } } } 
+15, 1, main { write ( b ) loop ( b equals 885 ) { a = a condition ( d equals 690 & c equals c ) { loop ( b equals a ) { } } } } 
+16, 1, main { write ( b ) condition ( a equals a ) { read ( b ) a = c c = c * c } } 
+17, 1, main { write ( b ) loop ( b equals 885 ) { a = a condition ( c equals 911 ) { loop ( b equals a ) { } } } } 
+18, 1, main {  loop ( b equals 828 | b equals b ) { write ( b )  }  condition ( b equals d ) { write ( d ) condition ( b equals 622 ) {  } } write ( d )  loop ( d equals d ) { write ( a ) } write ( a ) } 
+19, 1, main { write ( a ) loop ( c equals c ) { loop ( b equals d ) { b = 89 } condition ( d equals 588 & c equals 823 ) { condition ( b equals d ) { write ( b ) c = 103 } } } condition ( b equals 970 ) { write ( c ) write ( a ) b = d * d } write ( b ) write ( d ) } 
+20, 1, main {  c = 288 - 157   write ( d )  write ( d ) loop ( c equals a ) { loop ( b equals d ) { b = 75 } condition ( d equals 588 & c equals 823 ) { condition ( b equals d ) { write ( d ) c = 103 } } } } 
+21, 1, main { write ( b ) loop ( d equals d ) { write ( d ) } write ( b ) loop ( c equals c ) { loop ( b equals 206 | d equals 647 ) { read ( a ) } }  write ( d ) } 
+22, 1, main {  loop ( b equals 828 | b equals d ) { write ( b )  }  read ( b ) write ( b )  loop ( d equals d ) { b = b } write ( a ) } 
+23, 1, main { loop ( c equals b ) { write ( a ) } loop ( c equals c ) { loop ( b equals d ) { b = 75 } condition ( b equals 622 ) { condition ( a equals d ) { write ( d ) c = 103 } } } condition ( c equals 270 ) { write ( c ) write ( a ) b = d * d } write ( b ) write ( d ) } 
+24, 1, main { write ( a ) loop ( d equals d ) { b = d * d } write ( b ) loop ( c equals c ) { loop ( b equals 206 | d equals 647 ) { condition ( a equals d | c equals 4 ) {  c = 648 } } }  write ( d ) } 
+25, 1, main { loop ( c equals b ) { write ( a ) } loop ( c equals c ) { loop ( b equals d ) { b = 75 } condition ( b equals 622 ) { condition ( a equals d ) { write ( d ) write ( a ) } } } condition ( c equals 270 ) { write ( c ) write ( a ) b = d * d } write ( b ) write ( d ) } 
+26, 1, main { write ( b ) loop ( d equals d ) { write ( d ) } write ( b ) loop ( c equals c ) { loop ( b equals 206 | d equals 647 ) { loop ( d equals d ) { read ( b ) } } }  write ( d ) } 
+27, 1, main { write ( a ) read ( d ) condition ( c equals 911 ) { write ( c ) condition ( b equals d ) {  loop ( b equals 185 | b equals 314 ) { condition ( b equals 430 | d equals b ) { } } } c = d / d } write ( b ) write ( b ) } 
+28, 1, main {  loop ( b equals 828 | b equals d ) { write ( b )  }  read ( b ) write ( b )  condition ( d equals c ) { write ( c ) c = 103 } a = 984 } 
+29, 1, main { write ( d ) loop ( c equals 477 | b equals d ) {  }  write ( b ) } 
+30, 1, main { condition ( d equals 28 ) { condition ( b equals 970 ) { condition ( b equals 970 ) { condition ( c equals 979 ) { write ( b ) } write ( a ) b = d * d } write ( a ) b = d * d } } c = c * c condition ( a equals a ) { read ( b ) a = c b = 75 } write ( d )  write ( d ) } 
+31, 1, main { write ( c ) write ( a ) write ( b ) loop ( b equals a ) { loop ( a equals 441 ) {   condition ( a equals 121 & a equals 734 ) { condition ( c equals c ) { d = 172 } } } condition ( b equals 970 ) {  write ( a ) } } } 
+32, 1, main { read ( c ) read ( c ) c = c * c write ( d ) loop ( b equals 828 | b equals d ) { write ( b )  } condition ( d equals 28 ) { loop ( b equals 828 | b equals b ) { write ( a )  } } write ( d ) read ( c ) loop ( b equals 828 | b equals b ) { } } 
+33, 1, main { write ( a ) loop ( c equals b ) { write ( a ) b = d * d } condition ( b equals 970 ) { write ( d ) c = 494 + 933 b = d * d } write ( b ) write ( d ) } 
+34, 1, main {  loop ( b equals 970 ) { b = d * d  }  b = c loop ( b equals 970 ) { write ( a ) condition ( d equals 588 & d equals 823 ) { b = d * a } }  loop ( d equals c ) { write ( b ) } write ( a ) } 
+35, 1, main { loop ( b equals 185 | b equals 314 ) { condition ( b equals 430 | d equals b ) { } } read ( c ) write ( d ) write ( a ) read ( c ) condition ( b equals d ) { write ( a ) b = 450 / 947 } read ( c ) read ( c ) loop ( b equals 828 | b equals b ) { } } 
+36, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+37, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+38, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+39, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+40, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - a a = c b = 450 / 947 } write ( d )  write ( b ) } 
+41, 0.2, main { condition ( d equals 28 ) { read ( c ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+42, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+43, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 892 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+44, 0.2, main { condition ( b equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+45, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( b equals 828 | b equals b ) { c = b - a c = b - c b = 450 / 947 } write ( d )  write ( b ) } 
+46, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * b condition ( b equals 828 | b equals b ) { c = b - a a = c b = 450 / 947 } write ( d )  write ( b ) } 
+47, 0.2, main { condition ( d equals 28 ) { write ( b ) } c = c * c condition ( d equals 828 | b equals b ) { c = b - c a = c b = 450 / 947 } write ( d )  write ( b ) } 
+48, 0.1, main { condition ( d equals 28 ) { write ( b ) } read ( c ) condition ( d equals c ) { c = b - a a = c b = 450 / 947 } write ( d )  write ( b ) } 
+49, 0, main { condition ( d equals 28 ) { write ( b ) } read ( c ) condition ( d equals c ) { c = b - a a = c b = 450 / 947 } read ( d )  write ( b ) } 

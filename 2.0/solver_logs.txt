@@ -1,0 +1,9 @@
+0, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( c equals 744 & b equals c ) { loop ( c equals d | d equals c ) { read ( c ) } } } 
+1, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( c equals 744 & b equals c ) { loop ( c equals d | d equals b ) { read ( c ) } } } 
+2, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( b equals 24 | d equals 700 ) { loop ( c equals d | d equals c ) { read ( c ) } } } 
+3, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( c equals 744 & b equals c ) { loop ( c equals d ) { write ( b ) } } } 
+4, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( c equals 744 & b equals c ) { loop ( d equals 239 ) { read ( c ) } } } 
+5, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 condition ( c equals 967 ) { loop ( d equals c ) {   condition ( d equals 912 ) { write ( b ) } } write ( a ) } loop ( c equals 744 & b equals c ) { loop ( c equals 405 ) { read ( c ) } } } 
+6, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) a = a loop ( c equals 744 & a equals c ) { loop ( c equals d | d equals c ) { read ( c ) } } loop ( c equals 744 & b equals c ) { loop ( c equals d | d equals b ) { read ( c ) } } } 
+7, 0.2, main { read ( c ) write ( c ) read ( c ) write ( c ) b = 858 b = 339 loop ( c equals 744 & a equals c ) { write ( c ) } } 
+8, 0, main {  read ( c ) condition ( c equals b ) {  read ( c ) read ( c )  read ( a ) }  write ( c ) } 

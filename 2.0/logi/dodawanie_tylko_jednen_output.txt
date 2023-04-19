@@ -1,0 +1,4 @@
+0, 0.1, main { read ( d ) write ( c ) read ( c ) condition ( a equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 
+1, 0.1, main { read ( d ) write ( c ) read ( c ) condition ( a equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 
+2, 0.1, main { read ( d ) write ( c ) read ( c ) condition ( a equals 832 | d equals 312 ) {   } c = d + c write ( c ) } 
+3, 0, main { read ( d ) condition ( c equals 658 ) { condition ( d equals 381 ) { loop ( d equals b & b equals 654 ) { write ( d ) } } } read ( c ) condition ( a equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 

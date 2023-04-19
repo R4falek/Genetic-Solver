@@ -1,0 +1,73 @@
+0, 64, main { c = 36 write ( c ) } 
+1, 26, main { a = 74 read ( b ) write ( a ) } 
+2, 26, main { a = 74 read ( b ) write ( a ) } 
+3, 26, main { a = 74 write ( d ) write ( a ) } 
+4, 26, main { a = 74 write ( b ) write ( a ) } 
+5, 26, main { a = 74 read ( b ) write ( a ) } 
+6, 26, main { a = 74 write ( d ) write ( a ) } 
+7, 26, main { a = 74 write ( b ) write ( a ) } 
+8, 26, main { a = 74 a = 74 write ( a ) } 
+9, 26, main { a = 74 write ( a ) write ( a ) } 
+10, 26, main { a = 74 condition ( d equals a & d equals 237 ) { condition ( c equals c ) { d = d / a } } write ( a ) } 
+11, 26, main { a = 74 write ( a ) a = 74 } 
+12, 26, main { a = 74 a = 74 write ( a ) } 
+13, 4, main { a = 104 write ( a ) } 
+14, 4, main { a = 104 write ( a ) } 
+15, 4, main { a = 104 write ( a ) } 
+16, 4, main { a = 104 write ( a ) } 
+17, 4, main { a = 104 write ( a ) } 
+18, 4, main { a = 104 write ( a ) } 
+19, 4, main { a = 74 a = 104 write ( a ) } 
+20, 4, main { a = 74 a = 104 write ( a ) } 
+21, 4, main { a = 74 a = 104 write ( a ) } 
+22, 4, main { a = 74 a = 104 write ( a ) } 
+23, 4, main { a = 104 write ( a ) a = 984 } 
+24, 4, main { write ( a ) a = 104 write ( a ) } 
+25, 4, main { a = 104 write ( a ) write ( a ) } 
+26, 4, main { write ( a ) a = 104 write ( a ) } 
+27, 4, main { a = 746 a = 104 write ( a ) } 
+28, 4, main { a = 74 a = 104 write ( a ) } 
+29, 4, main { condition ( a equals 398 | a equals b ) { d = 72 } a = 104 write ( a ) } 
+30, 2, main { read ( c ) a = 98 write ( a ) } 
+31, 2, main { read ( c ) a = 98 write ( a ) } 
+32, 2, main { read ( c ) a = 98 write ( a ) } 
+33, 2, main { a = b a = 98 write ( a ) } 
+34, 2, main { condition ( b equals 473 ) { loop ( c equals a | c equals 665 ) { write ( b ) } } a = 98 write ( a ) } 
+35, 1, main { a = 101 write ( a ) read ( a ) } 
+36, 1, main { a = 101 write ( a ) read ( a ) } 
+37, 1, main { a = 101 write ( a ) read ( a ) } 
+38, 1, main { a = 101 write ( a ) read ( a ) } 
+39, 1, main { a = 101 write ( a ) read ( a ) } 
+40, 1, main { a = 101 write ( a ) d = c } 
+41, 1, main { a = 101 write ( a ) write ( c ) } 
+42, 1, main { a = 101 write ( a ) loop ( c equals a | a equals b ) { write ( c ) a = 104 } } 
+43, 1, main { a = 101 loop ( d equals b & a equals c ) { loop ( d equals d & c equals d ) { read ( d ) a = d condition ( d equals a | d equals 86 ) { } } } write ( a ) } 
+44, 1, main { a = 101 loop ( d equals 397 & b equals a ) { b = b read ( b ) } write ( a ) } 
+45, 1, main { a = 101 write ( a ) condition ( d equals a | d equals 86 ) { } } 
+46, 1, main { a = 101 write ( a ) read ( a ) } 
+47, 1, main { a = 101 a = 101 write ( a ) } 
+48, 1, main { a = 101 a = 101 write ( a ) } 
+49, 1, main { a = 101 a = 101 write ( a ) } 
+50, 1, main { a = 101 a = 101 write ( a ) } 
+51, 1, main { write ( a ) a = 101 write ( a ) } 
+52, 1, main { a = 101 loop ( d equals 397 & b equals a ) { a = 101 condition ( c equals a | a equals b ) { write ( a ) read ( b ) loop ( d equals 816 ) { loop ( b equals d ) { } } } } write ( a ) } 
+53, 1, main { a = 101 loop ( d equals 397 & b equals a ) { a = 101 condition ( c equals a | a equals b ) { write ( a ) read ( b ) write ( a ) } } write ( a ) } 
+54, 1, main { a = 101 condition ( c equals a | a equals b ) { d = c a = 101 loop ( d equals 816 ) { loop ( a equals d ) { } } } write ( a ) } 
+55, 1, main { loop ( b equals c | b equals c ) { b = b b = 101 } a = 101 write ( a ) } 
+56, 1, main { loop ( b equals c | b equals c ) { b = b b = 101 } a = 101 write ( a ) } 
+57, 1, main { a = 101 condition ( b equals c ) { write ( a ) read ( d ) write ( a ) } write ( a ) } 
+58, 1, main { a = 101 loop ( d equals 874 ) { loop ( b equals a ) { condition ( a equals 73 & b equals a ) { b = a + b } } } write ( a ) } 
+59, 1, main { a = 101 write ( a ) write ( a ) } 
+60, 1, main { condition ( b equals b ) { a = 101 } condition ( b equals 741 & a equals 42 ) { condition ( b equals d ) { condition ( b equals 502 & d equals 722 ) { loop ( d equals 173 ) { } } } } write ( a ) } 
+61, 1, main { a = 342 a = 101 write ( a ) } 
+62, 1, main { a = 101 write ( a ) write ( a ) } 
+63, 1, main { loop ( d equals 397 & b equals a ) { a = 101 b = b } a = 101 write ( a ) } 
+64, 1, main { a = 101 loop ( d equals 397 & b equals a ) { a = 101 condition ( c equals a | a equals b ) { write ( a ) read ( b ) c = 101 } } write ( a ) } 
+65, 1, main { a = 101 loop ( d equals 397 & b equals a ) { read ( c ) condition ( c equals a | a equals b ) { write ( a ) read ( b ) loop ( d equals 816 ) { a = 590 } } } write ( a ) } 
+66, 1, main { a = 101 write ( a ) write ( a ) } 
+67, 1, main { write ( a ) condition ( a equals c | a equals b ) { d = c a = 101 write ( a ) } write ( a ) } 
+68, 1, main { a = 101 loop ( d equals 816 ) { condition ( a equals b ) { write ( a ) read ( a ) loop ( b equals c | c equals c ) { } } } write ( a ) } 
+69, 0.1, main { a = 100 write ( c ) write ( a ) } 
+70, 0.1, main { a = 100 write ( c ) write ( a ) } 
+71, 0.1, main { a = 100 write ( c ) write ( a ) } 
+72, 0, main { a = 100 write ( a ) write ( a ) } 

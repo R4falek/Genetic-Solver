@@ -1,0 +1,4 @@
+0, 0.1, main { write ( c ) read ( c ) read ( a ) d = 446 b = c * a c = b b = 239 - 416 write ( c ) read ( c ) condition ( c equals c ) { } } 
+1, 0.1, main { write ( c ) read ( c ) read ( a ) d = 446 b = c * a c = b b = 239 - 416 write ( c ) read ( c ) condition ( c equals c ) { } } 
+2, 0.1, main { write ( c ) read ( c ) read ( a ) d = 446 b = c * a c = b b = 239 - 416 write ( c ) read ( c ) condition ( c equals c ) { } } 
+3, 0, main { condition ( a equals 812 ) { read ( c ) read ( c ) read ( c ) } read ( c ) read ( a ) d = 446 b = c * a c = b b = 239 - 416 write ( c ) read ( c ) condition ( c equals c ) { } } 

@@ -1,0 +1,13 @@
+0, 0.4, main { write ( c ) read ( a ) read ( c ) write ( a ) read ( c )  write ( c ) read ( c ) loop ( a equals 60 ) { c = 674 } } 
+1, 0.4, main { write ( c ) read ( a ) read ( c ) write ( a ) read ( c )  write ( c ) read ( c ) loop ( a equals 60 ) { c = 674 } } 
+2, 0.4, main { write ( c ) read ( a ) read ( c ) write ( a ) read ( c )  write ( c ) read ( c ) loop ( a equals 60 ) { c = 674 } } 
+3, 0.4, main { write ( c ) read ( a ) d = b write ( a ) read ( c )  write ( c ) read ( c ) loop ( a equals 60 ) { c = 674 } } 
+4, 0.3, main { read ( b ) read ( c ) write ( c ) condition ( a equals a & b equals a ) {  loop ( a equals a ) { c = c read ( c ) } read ( d ) } write ( b )  write ( a )  read ( b ) }
+5, 0.2, main { read ( d ) read ( c ) write ( c ) condition ( b equals d & b equals 239 ) {  } condition ( c equals 54 ) { }  write ( d )  loop ( a equals a ) { } } 
+6, 0.1, main { read ( a )  loop ( a equals 60 ) { c = 674 }  write ( a ) read ( c ) loop ( d equals a ) { write ( c ) } } 
+7, 0.1, main { read ( a )  loop ( a equals 60 ) { b = 674 }  write ( a ) read ( c ) loop ( d equals a ) { write ( c ) } } 
+8, 0.1, main { read ( a )  loop ( a equals 60 ) { b = 674 }  write ( a ) read ( c ) loop ( d equals a ) { write ( c ) } } 
+9, 0.1, main { read ( d ) read ( c ) write ( c ) loop ( d equals a ) { write ( c ) } read ( c )  write ( d )  loop ( a equals a ) { } } 
+10, 0.1, main { read ( d ) read ( c ) write ( c ) loop ( d equals a ) { write ( c ) } read ( c )  write ( d )  loop ( a equals a ) { } } 
+11, 0.1, main { read ( d ) read ( c ) write ( c ) loop ( d equals a ) { write ( c ) } condition ( b equals d & b equals 239 ) {  }  write ( d )  loop ( a equals a ) { } } 
+12, 0, main { read ( d ) read ( c ) read ( c ) loop ( d equals a ) { write ( c ) } condition ( c equals 54 ) { }  write ( d )  loop ( a equals a ) { } } 

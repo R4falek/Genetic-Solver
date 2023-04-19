@@ -1,0 +1,80 @@
+0, 118, main { loop ( d equals 539 ) { read ( d ) d = d + b } read ( b ) read ( c ) read ( b ) write ( b ) condition ( b equals b ) { } } 
+1, 118, main { loop ( b equals 198 ) { c = 390 + 854 read ( d ) }   d = 649 * 147 read ( c ) write ( c )   c = 20 + 714 } 
+2, 58, main { write ( a ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) condition ( c equals b & c equals 522 ) { d = a - 623 } } 
+3, 58, main { write ( a ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) condition ( a equals 333 & c equals 2 ) { d = a - 623 } } 
+4, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) write ( c ) condition ( c equals b & c equals 522 ) { c = 20 + 714 } } 
+5, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals b ) { d = c * 917 } condition ( c equals b & c equals 522 ) { c = 20 + 714 } } 
+6, 58, main { write ( d ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) condition ( b equals c ) { d = a - 623 } } 
+7, 58, main { condition ( b equals b ) { } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) read ( c ) } 
+8, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals b ) { d = 761 + 68 } condition ( c equals b & c equals 522 ) { read ( b ) } } 
+9, 58, main { c = c d = 761 + 68 condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( d ) c = 590 write ( d ) condition ( c equals b ) { condition ( d equals 139 ) { } } } 
+10, 58, main { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } write ( c ) read ( c ) write ( c ) read ( c ) condition ( c equals b & c equals 522 ) { read ( b ) } } 
+11, 58, main { condition ( c equals b ) { } condition ( a equals a | c equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) read ( c ) } 
+12, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals b ) { d = 761 + 68 } condition ( c equals b & c equals 522 ) { read ( c ) } } 
+13, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) a = 925 condition ( a equals 246 ) { read ( b ) } } 
+14, 58, main { condition ( d equals b ) { } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) write ( c ) } 
+15, 58, main { read ( c ) write ( c ) read ( c ) b = a - 623 write ( c ) condition ( c equals b & c equals 522 ) { c = 20 + 714 } } 
+16, 58, main { condition ( b equals b ) { } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) read ( c ) write ( c ) condition ( a equals 333 & c equals 2 ) { condition ( a equals 333 & c equals 2 ) { d = a - 623 } } } 
+17, 58, main { read ( c ) write ( c ) read ( c ) b = a - 623 condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { c = 20 + 714 } } 
+18, 58, main { c = c d = 761 + 68 condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( d ) c = 590 write ( d ) condition ( a equals 333 & c equals 2 ) { condition ( a equals a | d equals c ) { read ( c )  write ( a )  } } } 
+19, 58, main { write ( a ) condition ( a equals a | a equals d ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( b equals c ) { read ( c ) } condition ( c equals b & c equals 522 ) { read ( c ) } } 
+20, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) c = 919 * 442 condition ( c equals b & c equals 522 ) { d = 761 + 68 } } 
+21, 58, main { condition ( c equals b & c equals 522 ) { a = 20 + 714 } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) read ( c ) write ( c ) condition ( a equals 333 & c equals 2 ) { condition ( a equals 333 & a equals 2 ) { d = a - 623 } } } 
+22, 58, main { write ( a ) condition ( a equals a | d equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( c equals b ) { } condition ( a equals a | d equals c ) { d = a - 623 } } 
+23, 58, main { write ( a ) condition ( a equals a | a equals d ) { read ( c ) write ( c )  } read ( c ) write ( c ) d = a - 385 condition ( c equals b & c equals 522 ) { read ( c ) } } 
+24, 58, main { write ( a ) condition ( a equals a | d equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( c equals b ) { } condition ( a equals a | d equals c ) { d = a - 623 } } 
+25, 58, main { write ( a ) condition ( a equals a | a equals d ) { read ( c ) write ( c )  } read ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } d = a - 385 condition ( c equals b & c equals 522 ) { read ( c ) } } 
+26, 58, main { write ( c ) condition ( c equals b ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( b equals c ) { write ( c ) } condition ( a equals 333 & c equals 2 ) { c = a - 623 } } 
+27, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) read ( c ) write ( c ) d = b - 623 } 
+28, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) a = 590 + 714 condition ( a equals 277 ) { read ( b ) } } 
+29, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( d equals b ) { } a = 20 + 714 } 
+30, 58, main { read ( c ) write ( c ) read ( c ) read ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { condition ( c equals b & c equals 522 ) { read ( c ) } } } 
+31, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals c | d equals c ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { c = 761 + 68 } write ( c ) } 
+32, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( b ) condition ( a equals a | d equals c ) { write ( d ) } } 
+33, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) read ( c ) write ( c ) condition ( c equals 140 ) { condition ( a equals a | a equals d ) { read ( c ) write ( c )  } } } 
+34, 58, main { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } write ( c ) condition ( d equals b ) { } condition ( a equals a | d equals c ) { write ( d ) } } 
+35, 58, main { write ( a ) condition ( a equals b | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( a equals a | d equals c ) { write ( d ) } } 
+36, 58, main { write ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) write ( c ) read ( c ) condition ( a equals a | c equals c ) { write ( d ) } } 
+37, 58, main { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } write ( c ) read ( c ) write ( c ) condition ( a equals a | a equals c ) { write ( c ) } condition ( c equals b & c equals 522 ) { read ( c ) } } 
+38, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) c = 235 * 96 condition ( a equals 982 & a equals b ) { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } } } 
+39, 58, main { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( b equals a | a equals c ) { read ( c ) write ( c )  } read ( c ) condition ( b equals c ) { read ( c ) } condition ( d equals b ) { } condition ( a equals a | d equals c ) { write ( d ) } } 
+40, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | d equals c ) { write ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { c = 761 + 68 } write ( c ) } 
+41, 58, main {  condition ( d equals d ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( b equals c ) { condition ( a equals a | d equals c ) {  write ( c )  } } read ( a ) } 
+42, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals b & c equals 522 ) { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } } condition ( c equals b & c equals 531 ) { write ( c ) } } 
+43, 58, main { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { read ( c ) read ( c )  } read ( c ) write ( c ) read ( c ) write ( c ) } 
+44, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals c | d equals c ) { read ( c ) write ( c )  } loop ( c equals 921 ) { read ( c ) } write ( c ) } 
+45, 58, main { write ( c ) condition ( a equals a | a equals d ) { read ( c ) write ( c )  } read ( c ) write ( c ) condition ( b equals c ) { read ( c ) } condition ( c equals b & c equals 522 ) { condition ( a equals a | a equals d ) { read ( c ) } } } 
+46, 58, main { write ( c ) condition ( a equals a | d equals c ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } write ( c ) condition ( d equals b ) { } write ( c ) } 
+47, 58, main { read ( c ) write ( c ) read ( c ) loop ( d equals 573 ) { write ( d ) write ( a ) } condition ( a equals a | a equals d ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { write ( c ) } } 
+48, 58, main { read ( c ) write ( c ) read ( c ) loop ( d equals 573 ) { write ( d ) write ( a ) } condition ( a equals a | a equals d ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { write ( c ) } } 
+49, 58, main { read ( c ) write ( c ) read ( c ) condition ( c equals d & c equals 522 ) { read ( d ) write ( c )  } loop ( c equals b & c equals 522 ) { loop ( b equals 317 ) { write ( a ) } } write ( c ) } 
+50, 58, main { read ( c ) write ( c ) read ( c ) condition ( c equals d & c equals 522 ) { read ( d ) write ( c )  } loop ( c equals b & c equals 522 ) { loop ( b equals 317 ) { write ( a ) } } write ( c ) } 
+51, 58, main { read ( c ) write ( c ) write ( c ) loop ( d equals 573 ) { condition ( d equals b ) { loop ( c equals 199 | d equals 283 ) { loop ( c equals 152 | c equals 435 ) {  } } } read ( c ) } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } a = 779 } 
+52, 58, main { read ( c ) write ( c ) write ( c ) loop ( d equals 573 ) { condition ( d equals b ) { loop ( c equals 199 | d equals 283 ) { loop ( c equals 152 | c equals 435 ) {  } } } read ( c ) } condition ( a equals a | a equals c ) { read ( c ) write ( c )  } a = 779 } 
+53, 58, main { read ( c ) write ( c ) condition ( c equals a | d equals a ) { d = 93 }  read ( c ) write ( c ) } 
+54, 58, main { read ( c ) write ( c ) read ( c ) loop ( d equals 573 ) { write ( d ) read ( c ) } condition ( a equals a | a equals a ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { read ( c ) } } 
+55, 58, main { condition ( a equals a | a equals a ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) read ( c ) write ( c ) } 
+56, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals c & c equals 522 ) { read ( c ) } write ( c ) } 
+57, 58, main { read ( c ) write ( c ) condition ( a equals a | a equals c ) { read ( c ) read ( c )  } condition ( a equals a | d equals c ) { read ( c ) write ( c )  } condition ( c equals b & c equals 522 ) { condition ( a equals a | a equals c ) { write ( c ) write ( c )  } } read ( c ) } 
+58, 58, main { read ( c ) write ( c ) read ( c ) write ( d ) condition ( c equals b & c equals 522 ) { condition ( a equals a | a equals d ) { read ( c ) condition ( a equals a | a equals d ) { write ( c ) }  } } condition ( a equals a | a equals b ) { write ( c ) } } 
+59, 58, main { read ( c ) write ( c ) read ( c ) write ( d ) condition ( c equals b & c equals 522 ) { loop ( a equals b ) { read ( a ) write ( a ) } } condition ( a equals a | a equals a ) { write ( c ) } } 
+60, 58, main { condition ( a equals a | a equals a ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { read ( c )   } write ( a ) write ( c ) loop ( b equals 317 ) { read ( c ) } condition ( a equals a | a equals d ) { read ( c ) } } 
+61, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  } write ( c ) condition ( c equals b & c equals 522 ) { write ( c ) } } 
+62, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( c equals c & c equals 522 ) { read ( c ) } read ( c ) } 
+63, 58, main { condition ( b equals a | a equals a ) { read ( c ) write ( c )  } read ( c ) write ( c ) write ( c ) read ( c )  } 
+64, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) write ( c ) write ( c ) } 
+65, 58, main { condition ( a equals a | a equals a ) { read ( c ) write ( c )  } condition ( a equals a | a equals a ) { read ( c ) read ( c )  } write ( a ) write ( c ) condition ( c equals b & c equals 531 ) { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } } write ( c ) } 
+66, 58, main { read ( c ) write ( c )  read ( c ) condition ( a equals a | a equals d ) { read ( c ) condition ( a equals a | a equals c ) { read ( c ) write ( c )  }  } write ( c ) } 
+67, 58, main { read ( c ) write ( c ) read ( c ) write ( c ) condition ( a equals d | a equals a ) { loop ( d equals 83 ) { a = c loop ( d equals a | b equals 620 ) { condition ( b equals 664 ) { condition ( a equals c | b equals 294 ) { } } } } } condition ( c equals 368 ) { write ( c ) } } 
+68, 58, main { condition ( a equals a | a equals a ) { read ( c ) write ( c )  } condition ( a equals a | a equals a ) { read ( d ) read ( c )  }  write ( c ) condition ( c equals b & c equals 531 ) { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } } write ( c ) } 
+69, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | d equals c ) { read ( c ) c = c  } condition ( a equals a | d equals c ) { condition ( a equals a | a equals a ) { write ( c ) write ( c )  } } read ( c ) } 
+70, 58, main { condition ( a equals a | d equals a ) { read ( c ) write ( c )  } condition ( a equals a | a equals c ) { write ( c ) condition ( c equals b & c equals 522 ) { read ( c ) write ( c )  }  } read ( b ) write ( a ) read ( c ) condition ( a equals a | c equals a ) { condition ( b equals a | a equals d ) { read ( c ) write ( c )  } write ( c )  } } 
+71, 58, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | d equals c ) { read ( c ) c = c  } condition ( a equals a | d equals c ) { condition ( a equals a | a equals c ) { read ( c ) write ( c )  } } read ( c ) } 
+72, 55, main { read ( c ) write ( c ) read ( c ) condition ( c equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 
+73, 55, main { read ( c ) write ( c ) read ( c ) condition ( c equals 921 | d equals 969 ) {   } c = d + c write ( c ) } 
+74, 55, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | a equals c ) {   } c = d + c write ( c ) } 
+75, 55, main { read ( c ) write ( c ) read ( c ) condition ( c equals 921 | d equals 969 ) {   } c = d + c write ( c ) } 
+76, 55, main { read ( c ) write ( c ) read ( c ) condition ( a equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 
+77, 55, main { read ( c ) write ( c ) read ( c ) condition ( a equals a | a equals c ) {   } c = d + c write ( c ) } 
+78, 55, main { read ( c ) write ( c ) read ( c ) read ( a ) c = d + c write ( c ) } 
+79, 0, main { read ( d ) write ( c ) read ( c ) condition ( a equals 921 | d equals 312 ) {   } c = d + c write ( c ) } 
